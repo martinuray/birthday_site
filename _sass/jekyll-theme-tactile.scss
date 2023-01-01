@@ -87,6 +87,10 @@ header h2 {
   letter-spacing: -1px;
 }
 
+div.small-info {
+  font-size: 75%;
+}
+
 #container {
   min-height: 595px;
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
@@ -158,6 +162,14 @@ a.button span {
 #download-zip span {
   background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
 }
+#yes-button span {
+  background: transparent url(../images/check-solid.svg) 12px 50% no-repeat;
+}
+#no-button span {
+  background: transparent url(../images/xmark-solid.svg) 12px 50% no-repeat;
+}
+
+
 #download-tar-gz span {
   background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
 }
