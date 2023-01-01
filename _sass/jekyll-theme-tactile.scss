@@ -91,6 +91,13 @@ div.small-info {
   font-size: 75%;
 }
 
+div.buttons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+}
+
 #container {
   min-height: 595px;
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;

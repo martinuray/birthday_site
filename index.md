@@ -14,14 +14,12 @@ Gefeiert wird am/um/im
 <i class="fa fa-location-arrow"><a href="https://goo.gl/maps/fdrGH7vh135KcKft6" target="_blank"> Salzburg Whiskey Museum </a> </i>
 
 
-
-
 ## Klick auf den passenden Button ...
 
 ... und gib mir Bescheid, ob Du mit von der Partie bist! Damit auch genügend 
-Bier eingekühlt ist <i class="fa fa-beer"/> (wäre ja sonst echt peinlich ...)
+Bier eingekühlt ist <i class="fa fa-beer"/> (wäre ja sonst echt peinlich ...).
 
-<div style="align-items: center;">
+<div class="buttons">
 
     <a href="mailto:birthday@uray.at?subject=Ja, ich komme!" 
        id="yes-button" class="button"><span> Ich komme!</span></a>
@@ -34,7 +32,8 @@ Bier eingekühlt ist <i class="fa fa-beer"/> (wäre ja sonst echt peinlich ...)
 <br/><br/><br/>
 
 <div class="small-info">
-    (Sollte das mit den Buttons nicht ganz so gut funktionieren, ruf mich an 
-    oder schick bitte eine E-Mail an birthday [at] uray [dot] at .)
+    Sollte das mit den Buttons nicht ganz so gut funktionieren, ruf mich an, 
+    schick mir eine SMS / WhatsApp / Signal Nachricht oder schick eine E-Mail 
+    an birthday [at] uray [dot] at.
 </div>
 <br/>
