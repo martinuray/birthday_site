@@ -3,10 +3,11 @@ layout: default
 ---
 ![Branching](https://martin.uray.at/images/long.jpg)
 
-Und wie gefeiert wird! Und da würde ich mich freuen, wenn Du dabei bist!
-
+Aber damit das Ganze überhaupt was Anständiges werden kann, brauche ich Dich als 
+tatkräftige Unterstützung beim Bier-Vernichten! Sonst gilt's ja nicht!
 
 ## Die Feier
+Gefeiert wird am/um/im
 
 <i class="fa fa-calendar"> 21.01.2023</i><br/> 
 <i class="fa fa-clock-o"> ab 20.00 Uhr</i><br/>
@@ -15,9 +16,10 @@ Und wie gefeiert wird! Und da würde ich mich freuen, wenn Du dabei bist!
 
 
 
-## Gib mir bescheid
-Um etwas plannen zu können, würde ich dich bitten, mir schnell mit einem 
-Klick bescheid zu geben.
+## Klick auf den passenden Button ...
+
+... und gib mir Bescheid, ob Du mit von der Partie bist! Damit auch genügend 
+Bier eingekühlt ist <i class="fa fa-beer"/> (wäre ja sonst echt peinlich ...)
 
 <div style="align-items: center;">
 
@@ -32,7 +34,7 @@ Klick bescheid zu geben.
 <br/><br/><br/>
 
 <div class="small-info">
-    (Sollten die Buttons für dich nicht gehen, ruf mich an oder schick mit bitte
-    eine E-Mail an birthday [at] uray [dot] at .)
+    (Sollte das mit den Buttons nicht ganz so gut funktionieren, ruf mich an 
+    oder schick bitte eine E-Mail an birthday [at] uray [dot] at .)
 </div>
 <br/>
