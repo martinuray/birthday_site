@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Branching](https://martin.uray.at/images/long.jpg)
+![Branching](assets/images/me.jpeg)
 
 Aber damit das Ganze überhaupt was Anständiges werden kann, brauche ich Dich als 
 tatkräftige Unterstützung beim Bier-Vernichten! Sonst gilt's ja nicht!
